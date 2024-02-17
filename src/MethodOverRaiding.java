@@ -1,2 +1,2 @@
-public class MethodOverRaiding {
+package PACKAGE_NAME;public class methodOverRaiding {
 }

@@ -1,2 +1,2 @@
-public class Revert {
+package PACKAGE_NAME;public class Revert {
 }
